@@ -1,0 +1,5 @@
+node_modules
+dredd.yml
+# Local Netlify folder
+.netlify
+functions
