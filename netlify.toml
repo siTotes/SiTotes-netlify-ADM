@@ -1,5 +1,5 @@
 [build]
-  command = "npm install && npm start"
+  command = "npm install && npm run build"
   functions = "functions"
 
 [build.environment]
